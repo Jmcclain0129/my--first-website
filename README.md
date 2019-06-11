@@ -2,11 +2,11 @@
 
 Welcome!
 
-My Name is John McClain and this is as I have noted my first ever web development project.
+My Name is John McClain and this is my first ever web development project.
 
 My plan for this project is to develop a frontend single page scroller site that describes a SaaS service I plan on developing as my main Code Institue project.
 
-The service is a lead generation model like those commonly discovered online such as boberdoo.com but far less complex.
+The SaaS service is a lead generation model like those commonly discovered online such as boberdoo.com but far less complex.
 
 The service will be designed to allow the user to enter in keyword(s) related to products and or services they are in the market for.
 
